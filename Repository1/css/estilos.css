@@ -1,0 +1,23 @@
+
+.LA
+{
+	color:red;
+	background-color: black;
+}
+.LB{color:blue;}
+.LC{
+	color:orange;
+	font-family: "kaushan_scriptregular"
+	}
+.back1{background-color: #00B0FF;}
+.back2{background-color: #673ab7;}
+
+option{
+	   color:red;
+	  font-family: "comic sans ms";
+	  background-color: #00B0FF;
+	  }
+#im{
+	width: 100px;
+	height: 100px;
+    }

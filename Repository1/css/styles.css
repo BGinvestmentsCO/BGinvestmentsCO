@@ -1,0 +1,22 @@
+.albumim:hover{
+	-moz-transform:scale(1.1);
+	-webkit-transform:scale(1.06);
+}
+.albumim{
+	border-radius: 150px;
+	-moz-transition:-moz-transform 0.3s ease-in-out 0.1s;
+	-webkit-transition: -webkit-transform 0.1s ease-in-out 0.1s;
+
+}
+.footera{
+	background-color: black;
+	border-radius: 10px;
+	color:white;
+}
+.Listafooter{
+	list-style: none;
+}
+#footerb{
+	border-radius: 10px;
+	color:lightgray;
+}
